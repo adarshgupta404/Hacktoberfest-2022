@@ -1,3 +1,7 @@
+/*
+Author's Name : Adarsh Gupta
+Date : 2nd October 2022
+*/
 #include<bits/stdc++.h>
 #include<iostream>
 #include<conio.h>
